@@ -86,8 +86,8 @@ export function Hero() {
               Explore Work <ArrowRight size={16} />
             </Button>
             <Button 
-              href="/Ayush_Lohiya_Resume.pdf"
-              download="Ayush_Lohiya_Resume.pdf"
+              href="/AyushLohiya_CSE_GLAU.pdf"
+              download="AyushLohiya_CSE_GLAU.pdf"
               variant="secondary"
             >
               Get Resume <Download size={16} />

@@ -146,8 +146,8 @@ export function Contact() {
                 <LeetcodeIcon size={16} /> LeetCode
               </Button>
               <Button 
-                href="/Ayush_Lohiya_Resume.pdf"
-                download="Ayush_Lohiya_Resume.pdf"
+                href="/AyushLohiya_CSE_GLAU.pdf"
+                download="AyushLohiya_CSE_GLAU.pdf"
                 variant="secondary"
                 className="gap-2"
               >
