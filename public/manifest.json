@@ -1,0 +1,16 @@
+{
+  "name": "Ayush Lohiya Portfolio",
+  "short_name": "Ayush Portfolio",
+  "description": "Portfolio of Ayush Lohiya - B.Tech CSE Student and Full Stack Developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#0d9488",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
